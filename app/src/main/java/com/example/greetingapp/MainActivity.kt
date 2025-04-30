@@ -36,7 +36,7 @@ class MainActivity : ComponentActivity() {
                 ) {
                     GreetingImage(
                         message = "Happy Birthday Madhesh!",
-                        from = "From Jaya"
+                        from = "From Jaya❤️"
                     )
                 }
 
